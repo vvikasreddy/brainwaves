@@ -1,0 +1,36 @@
+cnn unnormalized results: 
+
+Ensemble Model Results:
+Precision: 0.6386333771353482
+Confusion Matrix:
+[[1585  275]
+ [ 228  486]]
+ROC AUC: 0.7664114032709858
+F1 Score: 0.6589830508474577
+Recall: 0.680672268907563
+Accuracy: 0.8045843045843046
+
+
+cnn normalized results: 
+
+Ensemble Model Results:
+Precision: 0.5590128755364807
+Confusion Matrix:
+[[1449  411]
+ [ 193  521]]
+ROC AUC: 0.7543620674076082
+F1 Score: 0.6330498177399757
+Recall: 0.7296918767507002
+Accuracy: 0.7653457653457654
+
+cnn 4, unnormalized results 
+
+Ensemble Model Results:
+Precision: 0.6047337278106509
+Confusion Matrix:
+[[1526  334]
+ [ 203  511]]
+ROC AUC: 0.7680581910183429
+F1 Score: 0.6555484284797948
+Recall: 0.7156862745098039
+Accuracy: 0.7913752913752914

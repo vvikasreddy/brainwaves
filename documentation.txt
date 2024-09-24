@@ -1,0 +1,10 @@
+labels_all_data contains all the labels for the data
+
+subject_dependent_train_val contains data until some 11042 row (meaning all subjects data leaving some 15 subjects) and 
+independent_subject_test is the corresponding test data, after row 11043
+
+train_val and test contains data where all the data is combined and test is removed separately 
+
+s250-1000.npy contains subject-dependent_train_val npy files, where smote is applied
+
+labels_smote is the corresponding labels 
